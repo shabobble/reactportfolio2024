@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Madison Resources",
+    "imageSrc": "projects/madisonproject.png",
+    "description": "This was a site built in Drupal 9 for a staffing company to use along with their e-mail direct marketing campaign.",
+    "skills": ["Drupal 9", "Twig", "Layout Builder", "PHP"],
+    "demo": "https://www.madisonresources.com"
+  },
+  {
+    "title": "USPRO",
+    "imageSrc": "projects/usproproject.png",
+    "description": "This was a site built in Drupal 9 for a staffing company with the goal of making it identical to their old Wordpress site.",
+    "skills": ["Drupal 9", "Twig", "Paragraphs", "Javascript"],
+    "demo": "https://www.uspro.net"
+  },
+  {
+    "title": "Navigator Products",
+    "imageSrc": "projects/navigatorproject.png",
+    "description": "This was a site built in Drupal 10 to generate interest for our upcoming product release.",
+    "skills": ["Drupal 10", "Twig", "PHP", "Javascript"],
+    "demo": "https://www.navigatorproducts.com"
+  },
+  {
+    "title": "Navigator",
+    "imageSrc": "projects/crmproject.png",
+    "description": "This is a new ERP being developed for the staffing industry.",
+    "skills": ["C#", ".NET", "Blazor", "Telerik", "CSS"]
+  }
+]

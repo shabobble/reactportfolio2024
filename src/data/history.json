@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Application Developer",
+    "organisation": "NESC",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Contributed to the UI and services layer of a new ERP",
+      "Implemented OKTA API integration without SDK integration"
+    ],
+    "imageSrc": "history/logo.png"
+  },
+  {
+    "role": "CMS Developer",
+    "organisation": "Madison Resources",
+    "startDate": "Dec, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Built custom Drupal themes to the specifications of Figma designs",
+      "Built and hosted new Drupal websites for clients who previously had websites hosted elsewhere"
+    ],
+    "imageSrc": "history/madison.png"
+  }
+]
