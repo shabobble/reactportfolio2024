@@ -18,7 +18,7 @@
     "imageSrc": "projects/navigatorproject.png",
     "description": "This was a site built in Drupal 10 to generate interest for our upcoming product release.",
     "skills": ["Drupal 10", "Twig", "PHP", "Javascript"],
-    "demo": "https://www.navigatorproducts.com"
+    "demo": "https://navigatorproducts.com"
   },
   {
     "title": "Navigator",
